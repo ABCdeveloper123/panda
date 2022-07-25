@@ -1,0 +1,20 @@
+.bg-light-color {
+    background-image: #f8f9fa;
+    ;
+}
+
+.panda-bg-info {
+    background-color:
+        #FEEAE9 !important;
+}
+
+.categories img {
+    width: 100px;
+}
+
+
+.buy-btn {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    color: #FEEAE9;
+    border-radius: 6px;
+}
